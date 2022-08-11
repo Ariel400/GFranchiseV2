@@ -4,7 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1d04eaaf-1b65-42e9-8d00-d13c5dd00df8" name="Changes" comment="structure" />
+    <list default="true" id="1d04eaaf-1b65-42e9-8d00-d13c5dd00df8" name="Changes" comment="structure">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/css/fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fonts/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fonts/Roboto-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fonts/Roboto-BlackItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fonts/Roboto-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fonts/Roboto-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fonts/Roboto-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fonts/Roboto-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fonts/Roboto-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fonts/Roboto-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fonts/Roboto-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fonts/Roboto-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fonts/Roboto-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/fonts/Roboto-ThinItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/images/predios-e-vetores-3fee7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module/Loader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module/Loader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/view/loader.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/view/loader.fxml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,13 +57,20 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/home/ariel/Documents/apache-tomcat-10.0.22/webapps/GFranchise",
-    "project.structure.last.edited": "Global Libraries",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2"
+    "last_opened_file_path": "/home/ariel/Téléchargements/javafx-sdk-18.0.1",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.39241803"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Loader">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/images" />
+      <recent name="$PROJECT_DIR$/src/main/resources/fonts" />
+      <recent name="$PROJECT_DIR$/src/main/resources/css" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in GFranchiseV2 (1)">
     <configuration name="HelloApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.example.gfranchisev2.HelloApplication" />
       <module name="GFranchiseV2" />
@@ -58,12 +87,21 @@
     <configuration name="Loader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="module.Loader" />
       <module name="GFranchiseV2" />
+      <option name="PROGRAM_PARAMETERS" value="--module-path &quot;\home\ariel\Téléchargements\javafx-sdk-18.0.1\lib&quot; --add-modules javafx.controls,javafx.fxml" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="module.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in GFranchiseV2 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GFranchiseV2" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -76,8 +114,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.HelloApplication" />
+      <item itemvalue="Application.Loader" />
+      <item itemvalue="JUnit.All in GFranchiseV2 (1)" />
+      <item itemvalue="JUnit.All in GFranchiseV2" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in GFranchiseV2 (1)" />
         <item itemvalue="Application.Loader" />
         <item itemvalue="Application.HelloApplication" />
         <item itemvalue="JUnit.All in GFranchiseV2" />
@@ -100,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1660141204452</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="structure">
+      <created>1660141446827</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1660141446827</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
